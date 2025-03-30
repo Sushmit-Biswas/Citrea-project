@@ -17,7 +17,7 @@ This project is a simple voting code written in Solidity, utilizing the Remix Et
 ## Setup and Deployment
 1. Clone the Repository: Clone this repository to your local machine.
 2. Open in Remix IDE: Open the project in Remix Ethereum IDE.
-3. Compile the Contract: Compile the contract using the Solidity compiler.
+3. Compile the Contract: Compile the contract after adding the Voting.sol file inside contracts folder and then using the Solidity compiler.
 4. Deploy the Contract: Deploy the contract to your preferred Ethereum network.
 5. Configure CBTC: Set up CBTC for transaction execution.
 
