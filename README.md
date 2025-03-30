@@ -1,4 +1,4 @@
-### Voting Code Project on Citrea Testnet
+# Voting Code Project on Citrea Testnet
 
 ## Overview
 This project is a simple voting code written in Solidity, utilizing the Remix Ethereum IDE for compiling and deploying smart contracts. It leverages CBTC for transactions, ensuring a seamless voting experience.
